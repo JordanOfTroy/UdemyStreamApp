@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "will",
+      "description": "this work?",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's another stream",
+      "id": 2
+    },
+    {
+      "title": "this is the thridr stream",
+      "description": "where I like to do sutpid things",
+      "id": 3
+    },
+    {
+      "title": "some shit",
+      "description": "some shit about the shit",
+      "id": 4
+    }
+  ]
+}
