@@ -11,14 +11,21 @@
       "id": 2
     },
     {
-      "title": "this is the thridr stream",
-      "description": "where I like to do sutpid things",
-      "id": 3
+      "title": "Adding User ID",
+      "description": "Adding the User ID to the stream object. ",
+      "id": 5
     },
     {
-      "title": "some shit",
-      "description": "some shit about the shit",
-      "id": 4
+      "title": "Second Attempt",
+      "description": "Oops, I had to do it again!",
+      "userId": "117991344406941041338",
+      "id": 6
+    },
+    {
+      "title": "testing manual navigation",
+      "description": "Testing the manual navigation we set up to bring users back to '/' after creating a new stream. ",
+      "userId": "117991344406941041338",
+      "id": 7
     }
   ]
 }
